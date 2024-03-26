@@ -1,7 +1,6 @@
 def say_hello():
     print("Hello")
 
-say_hello()
 
 num1 = 2
 num2 = 4
