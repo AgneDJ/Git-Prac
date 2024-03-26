@@ -1,5 +1,5 @@
 Hi there
-Step Odyssey
+Git-Prac
 Fitness web app for competing with your friends by using step count.
 
 Features
